@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node JS Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Margaret Robinson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrobinson526/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrobinson526/nodejs/issues"
+  },
+  "homepage": "https://github.com/mrobinson526/nodejs#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
